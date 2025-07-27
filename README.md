@@ -136,11 +136,14 @@ yarn <script-name>
 google_notebooklm_clone_client/
 ├── public/
 ├── src/
+│   ├── assets/
 │   ├── components/
-│   ├── pages/
 │   ├── hooks/
-│   ├── styles/
-│   └── main.tsx (or index.tsx)
+│   ├── pages/
+│   └── App.css
+│   └── App.jsx
+│   └── index.css
+│   └── main.jsx
 ├── package.json
 ├── tailwind.config.js
 ├── vite.config.js

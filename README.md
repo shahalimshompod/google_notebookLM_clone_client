@@ -1,4 +1,4 @@
-```markdown
+
 # Google NotebookLM Clone Client
 
 A frontend React application that mimics the interface and functionality of
@@ -8,14 +8,16 @@ Google NotebookLM, focusing on PDF viewing and annotation using modern web techn
 
 ## 📑 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Development Setup](#development-setup)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [License](#license)
+- [Google NotebookLM Clone Client](#google-notebooklm-clone-client)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🚀 Features](#-features)
+  - [📦 Installation](#-installation)
+  - [🛠️ Development Setup](#️-development-setup)
+  - [📖 Usage](#-usage)
+  - [📚 Dependencies](#-dependencies)
+  - [📜 Available Scripts](#-available-scripts)
+  - [🧱 Project Structure](#-project-structure)
+  - [📝 License](#-license)
 
 ---
 

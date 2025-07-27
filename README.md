@@ -1,7 +1,8 @@
 ```markdown
 # Google NotebookLM Clone Client
 
-A frontend React application that mimics the interface and functionality of Google NotebookLM, focusing on PDF viewing and annotation using modern web technologies like Tailwind CSS, React Router, and PDF.js.
+A frontend React application that mimics the interface and functionality of
+Google NotebookLM, focusing on PDF viewing and annotation using modern web technologies like Tailwind CSS, React Router, and PDF.js.
 
 ---
 
@@ -35,8 +36,15 @@ Make sure you have **Node.js (v18+)** and **npm** or **yarn** installed.
 
 1. **Clone the repository**:
 
+**Client side**
    ```bash
-   git clone https://github.com/your-username/google_notebooklm_clone_client.git
+   git clone https://github.com/shahalimshompod/google_notebookLM_clone_client.git
+   cd google_notebooklm_clone_client
+   ```
+
+**Server side**
+   ```bash
+   git clone https://github.com/shahalimshompod/google_notebookLM_clone_server.git
    cd google_notebooklm_clone_client
    ```
 
@@ -103,12 +111,12 @@ After starting the development server, you can:
 
 ## 📜 Available Scripts
 
-| Script       | Description                         |
-|--------------|-------------------------------------|
-| `dev`        | Start local development server      |
-| `build`      | Build project for production        |
-| `preview`    | Preview production build locally    |
-| `lint`       | Run ESLint on the project files     |
+| Script    | Description                      |
+| --------- | -------------------------------- |
+| `dev`     | Start local development server   |
+| `build`   | Build project for production     |
+| `preview` | Preview production build locally |
+| `lint`    | Run ESLint on the project files  |
 
 Run them using:
 
